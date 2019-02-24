@@ -1,0 +1,7 @@
+id=XZ1CByeDataNotification
+name=XZ1C Data Notification Remover
+version=v1.0
+versionCode=1
+author=etan
+description=Get rid of pesky notification when you disable mobile data!
+minMagisk=17000
